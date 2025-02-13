@@ -16,7 +16,7 @@
 <details>
 <summary><strong>Answers</strong></summary>
 
-1. React is platform agnostic. There are different packages for different platforms. Each platform has its own “primitives” (eg web has div, p button, React Native has Text, View and Pressable)
+1. React is platform agnostic. There are different packages for different platforms. Each platform has its own “primitives” (eg web has div, p button, React Native has Text, View and Pressable)<br/>
 2. (1) the type of element we want to create, (2) the properties we want this element to have, (3) the element’s contents (what the element should have as children)
 `const element = React.createElement(
   'p',
