@@ -46,10 +46,10 @@
 
 <details>
 <summary><strong>Answers</strong></summary>
-1. a long lived object that holds contextual information about this particular instance of the component
-2. (1) We evaluate the returned JSX and pass it onto React, so that React can create the corresponding DOM elements
-(2) We create a component instance, a long-lived object that holds contextual information about this particular instance of the component
-3. We destroy the component instance and **any stored state is lost forever**
+1. a long lived object that holds contextual information about this particular instance of the component<br/>
+2. (1) We evaluate the returned JSX and pass it onto React, so that React can create the corresponding DOM elements<br/>
+(2) We create a component instance, a long-lived object that holds contextual information about this particular instance of the component<br/>
+3. We destroy the component instance and any stored state is lost forever
 
 </details>
 
